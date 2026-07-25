@@ -1,8 +1,16 @@
 aid: complybridge-inc
 name: ComplyBridge, Inc.
-description: ComplyBridge, Inc. is a company surfaced as a portfolio company of 500-global and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  ComplyBridge is a compliance operating system for regulated financial services firms operating in
+  the European Economic Area — banks and credit institutions, electronic money institutions, crypto-asset
+  service providers, payment institutions, and investment firms. The SaaS platform automates the
+  operational compliance workload that would otherwise sit with an outside law firm or an in-house
+  compliance team: wizard-driven license and authorisation packs (License Builder), regulatory policy
+  generation (Policy Studio), a natural-language regulatory Copilot, obligation tracking and audit logs
+  (Compliance Dashboard), repository scanning against the rulebook (Code Compliance), KYB intake and a
+  director/officer/UBO Data Room, and an EU Whistleblower Directive channel (Confide). Coverage spans
+  MiCA, PSD2/PSD3, EMD2/EMD3, MiFID II, DORA, GDPR, and the AML/CFT framework (AMLD5/6, AMLR/AMLA).
+  Surfaced as a portfolio company of 500 Global and enriched into the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/complybridge-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +18,33 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://complybridge.xyz/favicon.ico
 tags:
 - Company
+- Compliance
+- RegTech
+- Financial Services
+- Regulatory Technology
+- MiCA
+- PSD2
+- GDPR
+- AML
+- KYB
+- Governance Risk and Compliance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +54,28 @@ maintainers:
 common:
 - type: Website
   url: https://complybridge.xyz
+- type: SignUp
+  url: https://app.complybridge.xyz/auth/signup
+- type: Login
+  url: https://app.complybridge.xyz/auth/login
+- type: Support
+  url: https://complybridge.xyz/contact
+- type: TermsOfService
+  url: https://complybridge.xyz/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://complybridge.xyz/legal/privacy-policy
+- type: TrustCenter
+  url: security/complybridge-inc-trust-center.yml
+- type: Compliance
+  url: https://complybridge.xyz/security
+- type: DomainSecurity
+  url: security/complybridge-inc-domain-security.yml
+- type: LLMsTxt
+  url: llms/complybridge-inc-llms.txt
+- type: Integrations
+  url: https://complybridge.xyz/integrations
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,49 @@
+# ComplyBridge
+
+> The Compliance OS for Regulated Firms. License applications, policy generation, obligation tracking, and audit-ready exports across MiCA, PSD2, GDPR, and AML/CFT — without the law firm retainer.
+
+ComplyBridge is a SaaS platform for regulated financial services firms (banks, electronic money institutions, crypto-asset service providers, payment institutions, investment firms) operating in the European Economic Area. The product automates the operational compliance workload that would otherwise sit with an outside law firm or an in-house compliance team — license applications, policy drafting, ongoing obligation monitoring, and regulator-ready exports.
+
+## Frameworks covered
+
+- **MiCA** — Markets in Crypto-Assets Regulation (EU) 2023/1114. Full coverage for CASP authorisations, ART issuer authorisations, EMT issuer notifications, and crypto-asset white papers (CAWP).
+- **PSD2** — Payment Services Directive 2 (EU) 2015/2366. Licence applications + ongoing reporting.
+- **EMD2** — Electronic Money Directive 2009/110/EC. EMI authorisation route, cross-applied to EMT issuers via MiCA Art 54.
+- **MiFID II** — Markets in Financial Instruments Directive 2014/65/EU. Investment firm authorisations.
+- **DORA** — Digital Operational Resilience Act (EU) 2022/2554. ICT third-party register + incident reporting + contractual mapping.
+- **GDPR** — General Data Protection Regulation (EU) 2016/679. Article 30 records, DPIAs, DSAR routing.
+- **AML/CFT** — AMLD5 + AMLD6 + the forthcoming AMLR / AMLA framework. Risk assessments, customer due diligence, suspicious activity reporting cadence.
+
+## Products
+
+- [License Builder](https://complybridge.xyz/license-builder): wizard-driven authorisation packs (MiCA CASP, ART, EMT, CAWP, PSD2, EMD2, MiFID II).
+- [Policy Studio](https://complybridge.xyz/policy-generator): generates AML/CFT, ICT risk, governance, conflicts, complaints, and other regulatory policies from your firm context.
+- [Copilot](https://complybridge.xyz/compliance-ai): natural-language Q&A grounded in MiCA, PSD2, GDPR, DORA, AMLD, and the firm's own policies.
+- [Compliance Dashboard](https://complybridge.xyz/compliance-dashboard): obligation tracking, deadlines, audit log.
+- [Code Compliance](https://complybridge.xyz/code-compliance): scan GitHub or GitLab repos against GDPR, DORA, MiCA, PSD2, AML/CFT — findings cite the rulebook, not just the line number.
+- [Data Room](https://complybridge.xyz/kyb-data-room): director / officer / UBO document collection with utility-provider auto-sync for proof-of-address refresh.
+- [KYB Intake](https://complybridge.xyz/kyb-intake): institution-side prospect onboarding flow — risk-tier-driven section sets, document-first AI extraction, no-account private link.
+- [Confide](https://complybridge.xyz/confide): EU Whistleblower Directive 2019/1937 internal channel — anonymous, multilingual, two-way thread, regulated-finance-tailored categories.
+- [Integrations](https://complybridge.xyz/integrations): connected providers (Sumsub, Chainalysis, Notabene, LexisNexis, etc.) — plus outbound partner-sharing connections from the Data Room hand-off.
+
+## Regulation guides
+
+- [Banking](https://complybridge.xyz/banking) — credit-institution obligations under CRD VI (Dir 2024/1619) + CRR III (Reg 2024/1623).
+- [PSD2](https://complybridge.xyz/psd2) — payment services licensing.
+- [EMD](https://complybridge.xyz/emd) — electronic money institutions.
+- [MiFID](https://complybridge.xyz/mifid) — investment firms.
+- [MiCA](https://complybridge.xyz/mica) — MiCA Title III (ARTs), Title IV (EMTs), Title V (CASPs), Title II (CAWP). Authorisations, notifications, ongoing obligations.
+- [DORA](https://complybridge.xyz/dora) — ICT risk management for financial entities.
+- [GDPR](https://complybridge.xyz/gdpr) — data protection compliance.
+- [AMLD](https://complybridge.xyz/amld) — anti-money-laundering framework.
+
+## Buyer profile
+
+The buyer is typically the Chief Compliance Officer or General Counsel at a regulated firm. Common use cases: applying for a fresh MiCA CASP licence; notifying an EMT launch under an existing EMI licence; running ongoing compliance against a portfolio of obligations; preparing for a regulator review or a partner bank's quarterly KYB refresh.
+
+## Contact
+
+- Website: https://complybridge.xyz
+- Request access: https://complybridge.xyz/signup
+- Book demo: https://complybridge.xyz/book-demo
+- Press kit: https://complybridge.xyz/press-kit
