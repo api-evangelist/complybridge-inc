@@ -1,4 +1,4 @@
-# ComplyBridge, Inc.
+# ComplyBridge
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ComplyBridge, Inc. is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+ComplyBridge is a compliance operating system for regulated financial services firms operating in the European Economic Area — banks and credit institutions, electronic money institutions, crypto-asset service providers, payment institutions, and investment firms. The SaaS platform automates the operational compliance workload that would otherwise sit with an outside law firm or an in-house compliance team: wizard-driven license and authorisation packs (License Builder), regulatory policy generation (Policy Studio), a natural-language regulatory Copilot, obligation tracking and audit logs (Compliance Dashboard), repository scanning against the rulebook (Code Compliance), KYB intake and a director/officer/UBO Data Room, and an EU Whistleblower Directive channel (Confide). Coverage spans MiCA, PSD2/PSD3, EMD2/EMD3, MiFID II, DORA, GDPR, and the AML/CFT framework (AMLD5/6, AMLR/AMLA). Surfaced as a portfolio company of 500 Global and enriched into the API Evangelist network.
 
-Backed by: 500-global — https://complybridge.xyz
+**Areas:** Company · Compliance · RegTech · Financial Services · MiCA · PSD2 · GDPR · AML · KYB · Governance Risk and Compliance
+
+## ComplyBridge on APIs.io
+
+Everything profiled for ComplyBridge is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/complybridge-inc/](https://apis.io/providers/complybridge-inc/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Complybridge Inc Domain Security](https://apis.io/security/complybridge-inc/complybridge-inc-domain-security/)
+- [Complybridge Inc Trust Center](https://apis.io/security/complybridge-inc/complybridge-inc-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://complybridge.xyz)
+- [Sign up](https://app.complybridge.xyz/auth/signup)
+- [Support](https://complybridge.xyz/contact)
+- [Compliance](https://complybridge.xyz/security)
+- [Terms of service](https://complybridge.xyz/legal/terms-of-service)
+- [Privacy policy](https://complybridge.xyz/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 15.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.0** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/complybridge-inc/](https://apis.io/providers/complybridge-inc/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ComplyBridge: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/complybridge-inc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
